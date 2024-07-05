@@ -9,6 +9,11 @@ Ensure all the necessary packages listed.
 
 numpy matplotlib scikit-learn scikit-image click requests psutil tqdm imageio imageio-ffmpeg pyspng pillow 
 
+## Dataset 
+
+We evaluated our conditional score-based diffusion model using the Alzheimer’s Disease Prediction Of Longitudinal Evolution (TADPOLE) challenge cohort (https://tadpole.grand-challenge.org/).
+
+Example of data format is located under "https://github.com/siyeopyoon/Conditional-Score-Based-Diffusion-Model-for-Cortical-Thickness-Trajectory-Prediction/tree/main/Example%20Data%20Foramt"
 
 
 ## Running the Training/Experiments
