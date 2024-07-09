@@ -1,7 +1,7 @@
 # Conditional-Score-Based-Diffusion-Model-for-Cortical-Thickness-Trajectory-Prediction
 
 
-This repository contains the source code associated with our paper titled "Conditional-Score-Based-Diffusion-Model-for-Cortical-Thickness-Trajectory-Prediction" which has been accepted at MICCAI 2024.
+This repository contains the source code associated with our paper titled "Conditional Score Based Diffusion Model for Cortical Thickness Trajectory Prediction" which has been accepted at MICCAI 2024.
 
 ## Requirements
 
